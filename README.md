@@ -1,6 +1,6 @@
-# ASAP: An Antibody Sequence Analysis Pipeline and its Application to Identify Antibody Design Features that Target Matrix Metalloproteinases
+# ASAP-SML: An Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning
 
-Antibody Sequence Analysis Pipeline (ASAP) is a pipeline to identify distinguishing features in targeting antibody set when compared to a reference non-targeting set. The pipeline first extracts germline, CDR canonical structure, isoelectric point and frequent positional motifs features from sequences and creates an antibody feature fingerprint. Machine-learning and statistical significance testing are applied to antibody sequences and feature fingerprints to identify distinguishing feature values and combinations thereof. When applied to an MMP-targeting set, ASAP identifies salient features and recommends features to use when designing novel MPP-targeting antibody sequences.
+Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning (ASAP-SML) is a pipeline to identify distinguishing features in targeting antibody set when compared to a reference non-targeting set. The pipeline first extracts germline, CDR canonical structure, isoelectric point and frequent positional motifs features from sequences and creates an antibody feature fingerprint. Machine-learning and statistical significance testing are applied to antibody sequences and feature fingerprints to identify distinguishing feature values and combinations thereof. When applied to an MMP-targeting set, ASAP identifies salient features and recommends features to use when designing novel MPP-targeting antibody sequences.
 
 ## How to install
 ### Requirements: 
@@ -57,7 +57,7 @@ MMP-targeting set is composed of publicly available antibody sequence data. Refe
 ## Authors:
 This software is written by Xinmeng Li, James Van Deventer, Soha Hassoun (Soha.Hassoun@tufts.edu). 
 
-Paper title: "ASAP: An Antibody Sequence Analysis Pipeline and its Application to Identify Antibody Design Features that Target Matrix Metalloproteinases"
+Paper title: "ASAP-SML: An Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning"
 
 ## License
 
