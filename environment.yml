@@ -1,0 +1,8 @@
+name: asap
+
+dependencies:
+  - python=3
+  - scikit-learn
+  - numpy
+  - matplotlib
+  - biopython

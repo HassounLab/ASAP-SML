@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7bdd638-3cea-4080-984e-c663a79bf139" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$HL_pair.coverage" NAME="HL_pair Coverage Results" MODIFIED="1560299804554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$blast_clust.coverage" NAME="blast_clust Coverage Results" MODIFIED="1563569357937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$S_SequenceInRegion.coverage" NAME="S_SequenceInRegion Coverage Results" MODIFIED="1561476333072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASAP" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$clean_data.coverage" NAME="clean_data Coverage Results" MODIFIED="1563224845051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$S_SequenceInRegion__1_.coverage" NAME="S_SequenceInRegion (1) Coverage Results" MODIFIED="1566605337532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASAP" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$FeatureExtraction.coverage" NAME="FeatureExtraction Coverage Results" MODIFIED="1567705223819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASAP" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$SequenceAndFeatureAnalysis.coverage" NAME="SequenceAndFeatureAnalysis Coverage Results" MODIFIED="1567780970098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ASAP" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$onlyIGHV.coverage" NAME="onlyIGHV Coverage Results" MODIFIED="1561468526078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ASAP1_0_master$onlyheavy.coverage" NAME="onlyheavy Coverage Results" MODIFIED="1560887630264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase-MMP/data/reference-PDB" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1049574298">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.open.time.5" value="7" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="2" />
+          <entry key="project.opened" value="17" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="47" />
+          <entry key="fasta" value="4" />
+          <entry key="ipynb" value="1" />
+          <entry key="png" value="123" />
+          <entry key="py" value="51" />
+          <entry key="txt" value="25" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSV" value="47" />
+          <entry key="IPNB" value="1" />
+          <entry key="Image" value="123" />
+          <entry key="PLAIN_TEXT" value="29" />
+          <entry key="Python" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="16" />
+          <entry key="csv" value="1" />
+          <entry key="py" value="12814" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSV" value="1" />
+          <entry key="Python" value="12830" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-451646121">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1232" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1232" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ASAP/FeatureExtraction.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASAP/SequenceAndFeatureAnalysis.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1503">
+              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASAP/DesignRecommendation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ASAP/S_SequenceInRegion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5282">
+              <caret line="283" selection-start-line="283" selection-end-line="283" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>distance</find>
+      <find>motif</find>
+      <find>PostionalMotifposi</find>
+      <find>jaccar</find>
+      <find>corr</find>
+      <find>print</find>
+      <find>moti</find>
+      <find>head</find>
+      <find>heatmap</find>
+      <find>rank</find>
+      <find>less'</find>
+      <find>.index</find>
+      <find>open(</find>
+      <find>WriteFisherFS</find>
+      <find>sta</find>
+      <find>heat map</find>
+      <find>float(</find>
+      <find>feature</find>
+      <find>print(</find>
+      <find>all</find>
+      <find>shuffle</find>
+      <find>referen</find>
+      <find>set</find>
+      <find>frequency</find>
+      <find>_new</find>
+      <find>set(</find>
+      <find>startswith</find>
+      <find>2_GG</find>
+      <find>mean</find>
+      <find>importance</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ASAP.ipynb" />
+        <option value="$PROJECT_DIR$/Features_distribution_GermHV.csv" />
+        <option value="$PROJECT_DIR$/HL_pair.py" />
+        <option value="$PROJECT_DIR$/testCase-MMP/data/reference-PDB/onlyheavy.py" />
+        <option value="$USER_HOME$/Downloads/BoxDetection-master/box_detection.py" />
+        <option value="$PROJECT_DIR$/onlyIGHV.py" />
+        <option value="$PROJECT_DIR$/S_SequenceInRegion.py" />
+        <option value="$PROJECT_DIR$/clean_data.py" />
+        <option value="$PROJECT_DIR$/blast_clust.py" />
+        <option value="$PROJECT_DIR$/ASAP/S_SequenceInRegion.py" />
+        <option value="$PROJECT_DIR$/ASAP/FeatureExtraction.py" />
+        <option value="$PROJECT_DIR$/ASAP/SequenceAndFeatureAnalysis.py" />
+        <option value="$PROJECT_DIR$/ASAP/DesignRecommendation.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="ASAP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+              <item name="IGHV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+              <item name="IGHV" type="462c0819:PsiDirectoryNode" />
+              <item name="reference-IGHV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ASAP1.0-master" type="462c0819:PsiDirectoryNode" />
+              <item name="testCase" type="462c0819:PsiDirectoryNode" />
+              <item name="IGHV" type="462c0819:PsiDirectoryNode" />
+              <item name="targeting-MMP-IGHV" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ASAP1.0-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/testCase-MMP/data/target-HIV" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ASAP" />
+      <recent name="$PROJECT_DIR$/testCase-MMP/data/IGHV" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.SequenceAndFeatureAnalysis">
+    <configuration name="FeatureExtraction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ASAP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ASAP/FeatureExtraction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="S_SequenceInRegion (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ASAP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ASAP/S_SequenceInRegion.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SequenceAndFeatureAnalysis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ASAP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ASAP/SequenceAndFeatureAnalysis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="blast_clust" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blast_clust.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="clean_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clean_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="ASAP-1.0" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SequenceAndFeatureAnalysis" />
+      <item itemvalue="Python.S_SequenceInRegion (1)" />
+      <item itemvalue="Python.clean_data" />
+      <item itemvalue="Python.blast_clust" />
+      <item itemvalue="Python.FeatureExtraction" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.SequenceAndFeatureAnalysis" />
+        <item itemvalue="Python.FeatureExtraction" />
+        <item itemvalue="Python.S_SequenceInRegion (1)" />
+        <item itemvalue="Python.blast_clust" />
+        <item itemvalue="Python.clean_data" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7bdd638-3cea-4080-984e-c663a79bf139" name="Default" comment="" />
+      <created>1532624332261</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532624332261</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.33404863" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23012048" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.31084338" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.32891566" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.3297568" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2546495" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="2" />
+      <window_info anchor="bottom" id="Find" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.33734939" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="right" id="SciView" order="0" weight="0.3297568" />
+      <window_info anchor="right" id="Commander" order="1" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/reference-PDB/dh_chothia_heavy.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/reference-PDB/onlyheavy.py" />
+    <entry file="file://$PROJECT_DIR$/Features.csv" />
+    <entry file="file://$USER_HOME$/Downloads/BoxDetection-master/box_detection.py" />
+    <entry file="file://$PROJECT_DIR$/IGHV-23_combined_F.txt" />
+    <entry file="file://$PROJECT_DIR$/results/Except pI Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/IGHV/p1_chothia.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/IGHV/p1_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/onlyIGHV.py" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p2_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p1_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p3_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p4_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p5_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p8_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p7_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p6_chothia_IGHV.txt" />
+    <entry file="file://$PROJECT_DIR$/results/Only Frequent Positional Motif Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/Only Germline Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/Only pI Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/Only CDR Canonical Structure Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/testCase-MMP/data/targeting-MMP/p6_chothia.txt" />
+    <entry file="file://$PROJECT_DIR$/results/Light Chain Sequences.png" />
+    <entry file="file://$PROJECT_DIR$/results/Extracted Features.png" />
+    <entry file="file://$PROJECT_DIR$/results/Heavy Chain Sequences.png" />
+    <entry file="file://$PROJECT_DIR$/results/All Features Included_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/DTreeAllFeature.png" />
+    <entry file="file://$PROJECT_DIR$/results/Except Frequent Positional Motif Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/Except Germline Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/results/Except CDR Canonical Structure Features_ROC.png" />
+    <entry file="file://$PROJECT_DIR$/S_SequenceInRegion.py" />
+    <entry file="file://$PROJECT_DIR$/NonNaiveData/toy.fasta.txt" />
+    <entry file="file://$PROJECT_DIR$/NonNaiveData/485_mod.fasta" />
+    <entry file="file://$PROJECT_DIR$/NonNaiveData/502-503_all_paired_consensus_seqs.fasta" />
+    <entry file="file://$PROJECT_DIR$/results/IGHV_Sequence_region.csv" />
+    <entry file="file://$PROJECT_DIR$/ASAP/correlation.csv" />
+    <entry file="file://$PROJECT_DIR$/blast_clust.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="451">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clean_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2090">
+          <caret line="110" column="12" selection-start-line="110" selection-start-column="12" selection-end-line="110" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testCase/IGHV/reference-IGHV/r1_chothia_mod.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/pandas/core/frame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="2601" column="8" selection-start-line="2601" selection-start-column="8" selection-end-line="2601" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/sklearn/metrics/pairwise.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-33">
+          <caret line="1140" column="4" selection-start-line="1140" selection-start-column="4" selection-end-line="1140" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/numpy/lib/twodim_base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="413" column="4" selection-start-line="413" selection-start-column="4" selection-end-line="413" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="155" column="4" selection-start-line="155" selection-start-column="4" selection-end-line="155" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/scipy/stats/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-199" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/sklearn/ensemble/weight_boosting.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="244" column="15" selection-start-line="244" selection-start-column="15" selection-end-line="244" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/homework/lib/python3.6/site-packages/sklearn/ensemble/forest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="404">
+          <caret line="1476" column="28" selection-start-line="1476" selection-start-column="28" selection-end-line="1476" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASAP/DesignRecommendation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASAP/S_SequenceInRegion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5282">
+          <caret line="283" selection-start-line="283" selection-end-line="283" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASAP/SequenceAndFeatureAnalysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1503">
+          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ASAP/FeatureExtraction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
