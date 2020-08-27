@@ -6,10 +6,14 @@ Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learni
 ### Requirements: 
 An [Anaconda python environment](https://www.anaconda.com/download) is recommmended.
 Check the environment.yml file, but primarily:
-- Python >= 3.5
-- Numpy
-- Scikit-learn
-- Matplotlib
+- python >= 3.5
+- pandas
+- graphviz
+- jupyter
+- numpy
+- scikit-learn
+- scipy
+- biopython
 
 Jupyter notebook is required to run the ipynb examples.
 
@@ -18,7 +22,6 @@ We recommend installing using Anaconda as follows:
 ```
 conda create --name asap --file enviroment.yml
 source activate asap
-python setup.py install
 ```
 
 ## Example: Matrix Metalloproteinases (MMP) targeting and reference antibody sequence set
