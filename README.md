@@ -60,7 +60,10 @@ MMP-targeting set is composed of publicly available antibody sequence data. Refe
 ## Authors:
 This software is written by Xinmeng Li, James Van Deventer, Soha Hassoun (Soha.Hassoun@tufts.edu). 
 
-Paper title: "ASAP-SML: An Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning"
+Paper title: ["ASAP-SML: An Antibody Sequence Analysis Pipeline Using Statistical Testing and Machine Learning"] (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007779)
+
+Please cite our work:
+Li, Xinmeng, James A. Van Deventer, and Soha Hassoun. "ASAP-SML: An antibody sequence analysis pipeline using statistical testing and machine learning." PLoS computational biology 16.4 (2020): e1007779.
 
 ## License
 
